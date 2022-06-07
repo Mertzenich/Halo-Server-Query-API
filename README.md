@@ -1,1 +1,1 @@
-# halo-server-query-api
+# Halo Server Query API
